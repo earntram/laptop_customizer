@@ -1,3 +1,7 @@
+import React, { Component } from 'react';
+import slugify from 'slugify';
+import './App.css';
+
 return (
         <fieldset className="feature" key={featureHash}>
           <legend className="feature__name">
