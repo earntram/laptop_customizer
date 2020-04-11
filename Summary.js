@@ -18,3 +18,7 @@ class Summary extends Component {
         </div>
       );
     });
+ }
+}
+
+export default Summary;
